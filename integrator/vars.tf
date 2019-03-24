@@ -1,4 +1,4 @@
 
 variable bucket_name {
-    desciption = "Name of the bucket"
+    description = "Name of the bucket"
 }
